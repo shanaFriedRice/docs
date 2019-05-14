@@ -38,7 +38,7 @@ These resources let you style your app with a wide variety of interface parts. H
 
 	![default button](attachments/how-to-use-native-styling/default-button.png)
 
-3. Open *theme/styles/mobile/core/variables.js* using your IDE of choice.
+3. Open *theme\styles\native\app\custom-variables.js* using your IDE of choice.
 4. Change the `brand.primary` from **#0595DB** to *rosybrown*:
 
 	```javascript
